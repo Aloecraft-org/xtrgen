@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Aloecraft-org/xtrgen/blob/main/doc/assets/icon.png" style="height:96px; width:96px;"/>
 
-**Code Extraction & Patching Made Easy**
+**Fill {{placeholder}} tokens in a template from a JSON or YAML config.**
 
 [![PyPI Version](https://img.shields.io/pypi/v/xtrgen.svg)](https://pypi.org/project/xtrgen/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/xtrgen.svg)](https://pypi.org/project/xtrgen/)
